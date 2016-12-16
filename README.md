@@ -24,7 +24,7 @@ Ce projet est réalisé en C# .NET avec l'utilisation des windows Form. Il a ét
 
 # PROJET GENIE LOGICIEL
 ### TESTS POUR LA SELECTION DES ASTRONAUTES DE L’ESA
- (La version PDF du rapport est disponible [ici](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/Rapport%20.pdf))
+ (La version PDF du rapport est disponible [ici](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/Rapport%20.pdf))
 ### PLAN
 
 #### INTRODUCTION
@@ -73,8 +73,8 @@ Afin de bien orienter le développement de nos différentes interfaces nous avon
 
 Le test de perception :
 Inline-style:
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/01.png "Logo Title Text 1")
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/02.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/01.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/02.png "Logo Title Text 1")
 
 
 
@@ -91,8 +91,8 @@ Inline-style:
 
 Le test d’attention :
 
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/03.png "Logo Title Text 1")
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/04.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/03.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/04.png "Logo Title Text 1")
 
 
 
@@ -107,7 +107,7 @@ Le test d’attention :
 
 Le menu principal :
 
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/05.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/05.png "Logo Title Text 1")
 
 
 
@@ -121,10 +121,10 @@ Le menu principal :
 
 
  ### 1.3.	SCHEMAS UML
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/06.png "Logo Title Text 1")
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/07.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/06.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/07.png "Logo Title Text 1")
 
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/08.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/08.png "Logo Title Text 1")
 
 
 
@@ -135,7 +135,7 @@ Le menu principal :
 Pour ce projet nous avons décidé d’adopter une architecture particulièrement adaptée aux solutions Winforms, à savoir une architecture en Model-View-Presenter. Cette architectiure permet une grande séparation des responsabilités (separation of concerns) qui est un principe de design essentiel pour une programmation qui ait un couplage faible (le moins de dépendance possible entre les sous parties) et une cohésion forte (les composants qui font la même “chose” vont au même endroit). Les composants de notre application peuvent donc être utilisés séparément. De plus si nous voulons exporter notre programme sur un nouveau type d’affichage, il nous suffit d’adapter la vue et le presenter, nous n’aurons pas besoin de toucher au modèle.
 Notre modèle est un peu particulier, puisque n’ayant que des tests et un menu, il n’y a pas de réel mais il est “caché” dans les classes  “test” et ses filles.
 
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/09.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/09.png "Logo Title Text 1")
 Manipulation “idéale” d’une architecture MVP
 
 
@@ -154,7 +154,7 @@ Pour finir nous avons créé trois énumérés pour gérer la forme des élémen
 
 Sur l’ensemble des tâches de ce projet nous avons fait le choix de travailler ensemble sur la phase initiale ou de lancement du projet et la phase finale afin de choisir ensemble l’architecture de notre logiciel. Dans la phase de production du code nous nous sommes réparti le travail en s’attribuant à chacun le développement des tests, chose que nous avons bien sûr modulée en fonction des difficultés rencontrées lors du développement et l’avancement du projet. Maxime était responsable du développement des tests “Perception et mémoire associative” et “Calcul mental” ; Arthur était quant à lui responsable des tests “Attention et concentration”, “Problèmes de mathématiques” et “Problèmes de physique”. Nous parlons de responsabilité car même si la majeure partie du code était produit par le responsable du test, la deuxième personne devait se tenir informé de son avancement et de la qualité de la solution, le début des séances de chaque TP étaient notamment dédiés au compte rendu de l’avancement de chacun sur sa partie.
 Voici le planning final que nous avons suivi depuis le début du projet jusqu'à la date de rédaction de ce rapport :
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/10.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/10.png "Logo Title Text 1")
 
 
 
@@ -188,20 +188,20 @@ Nous avons également voulu appliquer au maximum le partage de fichier grâce au
 - ### 3.1.	VISUELS DES RÉSULTATS
 Ici seront présentés les différents visuels de notre application.
 Menu principal :  
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/11.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/11.png "Logo Title Text 1")
 
 Rappel des consignes à chaque début d’exercice :  
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/12.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/12.png "Logo Title Text 1")
 
 Test mémoire :  
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/13.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/13.png "Logo Title Text 1")
 
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/14.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/14.png "Logo Title Text 1")
 
 
 Test attention :
 
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/15.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/15.png "Logo Title Text 1")
 
 
 
@@ -217,15 +217,15 @@ Test attention :
 
 Test Calcul mental :
 
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/16.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/16.png "Logo Title Text 1")
 
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/17.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/17.png "Logo Title Text 1")
 
 
 
 Problèmes de mathématiques ou de physique :
 
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/18.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/18.png "Logo Title Text 1")
 
 - ### 3.2.	PROTOCOLES DES TESTS
 Pour tester notre application nous avons décidé de nous concentrer sur les tests unitaires et fonctionnels.  Notre application a cependant été peu sujette aux tests unitaires, puisque la plupart des méthodes sont « intestable » unitairement, s’agissant d’action utilisateur. Nos tests unitaires se focalisent donc majoritairement sur les constructeurs des classes pour vérifier qu’à la création de nos instances, les attributs de la classe étaient bien affectés grâce au bon paramètre du constructeur.
@@ -237,7 +237,7 @@ C’est pourquoi les tests fonctionnels ont été particulièrement important pu
 ### 3.3.	RÉSULTATS
 Nos tests unitaires ont tous été passé avec succès.
 
-![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirrorblob/master/imgs/19.png "Logo Title Text 1")
+![alt text](https://github.com/maximedasilva/Projet_Genie_Logiciel_Mirror/blob/master/imgs/19.png "Logo Title Text 1")
 
 Quant aux tests fonctionnels ils ont été séparés en « test ». Au lieu d’énumérer toutes les contraintes pour un aspect de l’application, nous avons préféré énumérer toutes les contraintes pour chaque test. Au final les mêmes contraintes seraient remontées, mais l’organisation est légèrement différente.
 
