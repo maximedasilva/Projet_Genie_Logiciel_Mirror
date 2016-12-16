@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfprobMaths>
+  <probMaths id="1" enonce="Les nombres alpha et beta sont les racines du trinôme du second degré :" reponse1="X²+X-1" reponse2="X²-X-1" reponse3="X²+X+1" reponse4="X²-X+1" bonnereponse="X²+X-1" cheminImage="test.png" />
+  <probMaths id="2" enonce="Le dertermiant de la matrice ci-dessus vaut :" reponse1="0, car un des coefficients e la matrice est nul" reponse2="1" reponse3="0, car la somme des coefficients d'une ligne ou d'une colonne de la matrice est nulle" reponse4="nulle" bonnereponse="1" cheminImage="matrice.png" />
+  <probMaths id="3" enonce="Hors-saison, un hôtel propose une chambre double à 80 euros.En pleine saison, le prix augmente de 15%. Quel est le prix de la chambre double en pleine saison" reponse1="81.5 euros" reponse2="92 euros" reponse3="95 euros" reponse4="120 euros" bonnereponse="92 euros" cheminImage="test.png" />
+  <probMaths id="4" enonce="La somme des âges de deux enfants est de 23 ans. Sachant que le premier a 5 ans de plsu que le deuxième quel est l'âge du plus jeune ?" reponse1="9 ans" reponse2="10 ans" reponse3="11 ans" reponse4="13 ans" bonnereponse="9 ans" cheminImage="test.png" />
+  <probMaths id="5" enonce="Un rectangle de 12m par 8 a la meme surface qu'un autre rectangle dont un des côtés mesure 16 m.\nQuelle est la longueur du deuxième côté de cet autre rectangle" reponse1="3m" reponse2="4m" reponse3="6m" reponse4="8m" bonnereponse="" cheminImage="test.png" />
+  <probMaths id="6" enonce="Quel est l'objet qui a le plus grand volume ?(les dessins ne sont pas à la meme échelle)" reponse1="le cube" reponse2="la sphère" reponse3="le cylindre" reponse4="le rectangle" bonnereponse="rep13" cheminImage="plusGrandVolume.png" />
+  <probMaths id="7" enonce="Combien y a-t-il de centimètres cubes dans un mètre cube ?" reponse1="100" reponse2="1000" reponse3="10000" reponse4="100000" bonnereponse="100000" cheminImage="test.png" />
+  <probMaths id="8" enonce="enonce8" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test.png" />
+  <probMaths id="9" enonce="enonce9" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test.png" />
+  <probMaths id="10" enonce="enonce10" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test.png" />
+  <probMaths id="11" enonce="enonce11" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test.png" />
+  <probMaths id="12" enonce="enonce12" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test.png" />
+  <probMaths id="13" enonce="enonce13" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test.png" />
+  <probMaths id="14" enonce="enonce14" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test.png" />
+  <probMaths id="15" enonce="enonce15" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test.png" />
+  <probMaths id="16" enonce="enonce16" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test.png" />
+  <probMaths id="17" enonce="enonce17" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test.png" />
+  <probMaths id="18" enonce="enonce18" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test.png" />
+  <probMaths id="19" enonce="enonce19" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test.png" />
+  <probMaths id="20" enonce="enonce20" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test.png" />
+</ArrayOfprobMaths>

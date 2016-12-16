@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ESASelection.Presenter">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAQAAAAAAQAAQAQAAAAAACAAAIAAAAAAAgCAACAAA=</HashCode>
+      <FileName>Views-Presenter\Presenter.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="myView" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ESASelection.Memory">
+    <Position X="3.25" Y="8.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <InheritanceLine Type="ESASelection.Test" FixedToPoint="true">
+      <Path>
+        <Point X="6.25" Y="7.93" />
+        <Point X="6.25" Y="8.038" />
+        <Point X="3.938" Y="8.038" />
+        <Point X="3.938" Y="8.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAgAgAAAAAAAAAggFAAgAAACAAEAAEAAAAAAAAAEA=</HashCode>
+      <FileName>Tests\Memory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ESASelection.Attention">
+    <Position X="5" Y="8.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEQAwAIABAwkAAAAAgIAAAAAABCAAAAAAAAABAAA8BA=</HashCode>
+      <FileName>Tests\Attention.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ESASelection.Calcul">
+    <Position X="7.5" Y="8.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAACAAAIAgAAAAAAADAQAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Tests\Calcul.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ESASelection.chargement">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAIAAAAAEAIAAAAAABAAAAAAAAgEAAAAAgEA=</HashCode>
+      <FileName>Data\chargement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ESASelection.Test">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAgAAAAAAAAQAAhgggAAAAAAAAIAAAAAQAAAgAQAQ=</HashCode>
+      <FileName>Tests\Tests.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="myPresenter" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ESASelection.Problems">
+    <Position X="10" Y="8.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAEgAAAAAAAEAEAAgAAAAAADDABAAEEYgEAAAAAgAA=</HashCode>
+      <FileName>Tests\Problems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ESASelection.View">
+    <Position X="2" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>g6QBAAAAgKQAApAAAACAAKRbAQAYiaAAEAgAAAIAQEg=</HashCode>
+      <FileName>Views-Presenter\View.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ESASelection.Tests.AttentionShapes" Collapsed="true">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAQAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Graphics\AttentionShapes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ESASelection.memroyShapes" Collapsed="true">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAQAAEAAAAQEAIAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Graphics\MemoryShapes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ESASelection.shape" Collapsed="true">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACCAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Graphics\MemoryShapes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

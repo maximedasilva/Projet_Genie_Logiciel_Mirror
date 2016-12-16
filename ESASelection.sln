@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESASelection", "ESASelection\ESASelection.csproj", "{0F948E50-02B6-487F-A36E-73E6E58E2E12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESASelection_Tests", "ESASelection_Tests\ESASelection_Tests.csproj", "{4A30256B-304F-4C71-BE22-7B15F0800BCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0F948E50-02B6-487F-A36E-73E6E58E2E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F948E50-02B6-487F-A36E-73E6E58E2E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F948E50-02B6-487F-A36E-73E6E58E2E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A30256B-304F-4C71-BE22-7B15F0800BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A30256B-304F-4C71-BE22-7B15F0800BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A30256B-304F-4C71-BE22-7B15F0800BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A30256B-304F-4C71-BE22-7B15F0800BCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

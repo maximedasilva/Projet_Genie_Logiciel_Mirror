@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfprobPhysics>
+  <probPhysics id="1" enonce="Pour un conducteur ohmique de conductivité électrique c, la forme locale de la loi d'Ohm est :" reponse1="j=E/c" reponse2="j=cE" reponse3="E=c²j" reponse4="j=c²E" bonnereponse="j=cE" cheminImage="test.png" />
+  <probPhysics id="2" enonce="Dans quel cas est-il plus facile de bouger la pierre ?" reponse1="A" reponse2="B" reponse3="C" reponse4="D" bonnereponse="D" cheminImage="levier.png" />
+  <probPhysics id="3" enonce="enonce3" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test3.png" />
+  <probPhysics id="4" enonce="enonce4" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test3.png" />
+  <probPhysics id="5" enonce="enonce5" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test3.png" />
+  <probPhysics id="6" enonce="enonce6" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test3.png" />
+  <probPhysics id="7" enonce="enonce7" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test3.png" />
+  <probPhysics id="8" enonce="enonce8" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test3.png" />
+  <probPhysics id="9" enonce="enonce9" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test3.png" />
+  <probPhysics id="10" enonce="enonce10" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test3.png" />
+  <probPhysics id="11" enonce="enonce11" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test3.png" />
+  <probPhysics id="12" enonce="enonce12" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test3.png" />
+  <probPhysics id="13" enonce="enonce13" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test3.png" />
+  <probPhysics id="14" enonce="enonce14" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test3.png" />
+  <probPhysics id="15" enonce="enonce15" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test3.png" />
+  <probPhysics id="16" enonce="enonce16" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test3.png" />
+  <probPhysics id="17" enonce="enonce17" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test3.png" />
+  <probPhysics id="18" enonce="enonce18" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test3.png" />
+  <probPhysics id="19" enonce="enonce19" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test3.png" />
+  <probPhysics id="20" enonce="enonce20" reponse1="rep13" reponse2="rep23" reponse3="rep33" reponse4="rep43" bonnereponse="rep13" cheminImage="test3.png" />
+</ArrayOfprobPhysics>
